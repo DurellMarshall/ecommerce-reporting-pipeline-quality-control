@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="457" viewBox="0 0 1180 457" role="img">
+
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#1f2933" />
+  </marker>
+</defs>
+<rect x="0.0" y="0.0" width="1180.0" height="457.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="55.0" y="40.0" font-size="24" fill="#1f2933" font-weight="700" text-anchor="start" >Revenue Validation Checks</text>
+<text x="55.0" y="63.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >Python and SQL outputs match on revenue, freight, payment, variance, and AOV metrics</text>
+<rect x="45.0" y="82.0" width="1090.0" height="44.0" rx="4" fill="#edf2f7" stroke="none" />
+<text x="65.0" y="110.0" font-size="13" fill="#1f2933" font-weight="700" text-anchor="start" >Metric</text>
+<text x="420.0" y="110.0" font-size="13" fill="#1f2933" font-weight="700" text-anchor="start" >Python</text>
+<text x="610.0" y="110.0" font-size="13" fill="#1f2933" font-weight="700" text-anchor="start" >SQL</text>
+<text x="800.0" y="110.0" font-size="13" fill="#1f2933" font-weight="700" text-anchor="start" >Difference</text>
+<text x="990.0" y="110.0" font-size="13" fill="#1f2933" font-weight="700" text-anchor="start" >Status</text>
+<rect x="45.0" y="126.0" width="1090.0" height="44.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="65.0" y="154.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Average Order Value</text>
+<text x="420.0" y="154.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$159.33</text>
+<text x="610.0" y="154.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$159.33</text>
+<text x="800.0" y="154.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="138.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="153.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+<rect x="45.0" y="170.0" width="1090.0" height="44.0" rx="0" fill="#f8fafc" stroke="none" />
+<text x="65.0" y="198.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Freight Revenue</text>
+<text x="420.0" y="198.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$2.25M</text>
+<text x="610.0" y="198.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$2.25M</text>
+<text x="800.0" y="198.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="182.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="197.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+<rect x="45.0" y="214.0" width="1090.0" height="44.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="65.0" y="242.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Item Price Revenue</text>
+<text x="420.0" y="242.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$13.59M</text>
+<text x="610.0" y="242.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$13.59M</text>
+<text x="800.0" y="242.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="226.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="241.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+<rect x="45.0" y="258.0" width="1090.0" height="44.0" rx="0" fill="#f8fafc" stroke="none" />
+<text x="65.0" y="286.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Payment Order Variance Total</text>
+<text x="420.0" y="286.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$165.3K</text>
+<text x="610.0" y="286.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$165.3K</text>
+<text x="800.0" y="286.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="270.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="285.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+<rect x="45.0" y="302.0" width="1090.0" height="44.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="65.0" y="330.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Payment Revenue</text>
+<text x="420.0" y="330.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$16.01M</text>
+<text x="610.0" y="330.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$16.01M</text>
+<text x="800.0" y="330.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="314.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="329.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+<rect x="45.0" y="346.0" width="1090.0" height="44.0" rx="0" fill="#f8fafc" stroke="none" />
+<text x="65.0" y="374.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Payment Variance Order Count</text>
+<text x="420.0" y="374.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$1.0K</text>
+<text x="610.0" y="374.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$1.0K</text>
+<text x="800.0" y="374.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="358.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="373.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+<rect x="45.0" y="390.0" width="1090.0" height="44.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="65.0" y="418.0" font-size="13" fill="#1f2933" font-weight="400" text-anchor="start" >Total Revenue</text>
+<text x="420.0" y="418.0" font-size="13" fill="#2f855a" font-weight="400" text-anchor="start" >$15.84M</text>
+<text x="610.0" y="418.0" font-size="13" fill="#b7791f" font-weight="400" text-anchor="start" >$15.84M</text>
+<text x="800.0" y="418.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >$0.00</text>
+<rect x="990.0" y="402.0" width="74.0" height="21.0" rx="10" fill="#2f855a" stroke="none" />
+<text x="1027.0" y="417.0" font-size="11" fill="#ffffff" font-weight="700" text-anchor="middle" >PASS</text>
+</svg>

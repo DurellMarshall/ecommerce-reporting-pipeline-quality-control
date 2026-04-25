@@ -1,0 +1,15 @@
+metric,python_value
+total_orders,99441.0
+delivered_orders,96478.0
+late_delivery_count,7826.0
+missing_product_category_count,1627.0
+unique_customers,96096.0
+unique_sellers,3095.0
+data_quality_issue_count,2440.0
+payment_variance_order_count,1033.0
+item_price_revenue,13591643.7
+freight_revenue,2251909.54
+total_revenue,15843553.24
+payment_revenue,16008872.12
+payment_order_variance_total,165318.88
+average_order_value,159.33

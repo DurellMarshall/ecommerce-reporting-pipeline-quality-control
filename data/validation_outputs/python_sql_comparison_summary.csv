@@ -1,0 +1,15 @@
+metric,python_value,sql_value,difference,absolute_difference,status
+average_order_value,159.33,159.33,0.0,0.0,Pass
+data_quality_issue_count,2440.0,2440.0,0.0,0.0,Pass
+delivered_orders,96478.0,96478.0,0.0,0.0,Pass
+freight_revenue,2251909.54,2251909.54,0.0,0.0,Pass
+item_price_revenue,13591643.7,13591643.7,0.0,0.0,Pass
+late_delivery_count,7826.0,7826.0,0.0,0.0,Pass
+missing_product_category_count,1627.0,1627.0,0.0,0.0,Pass
+payment_order_variance_total,165318.88,165318.88,0.0,0.0,Pass
+payment_revenue,16008872.12,16008872.12,0.0,0.0,Pass
+payment_variance_order_count,1033.0,1033.0,0.0,0.0,Pass
+total_orders,99441.0,99441.0,0.0,0.0,Pass
+total_revenue,15843553.24,15843553.24,0.0,0.0,Pass
+unique_customers,96096.0,96096.0,0.0,0.0,Pass
+unique_sellers,3095.0,3095.0,0.0,0.0,Pass

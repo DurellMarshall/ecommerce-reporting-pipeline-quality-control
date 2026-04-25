@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="410" viewBox="0 0 820 410" role="img">
+
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#1f2933" />
+  </marker>
+</defs>
+<rect x="0.0" y="0.0" width="820.0" height="410.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="90.0" y="40.0" font-size="24" fill="#1f2933" font-weight="700" text-anchor="start" >Validation Summary</text>
+<text x="90.0" y="63.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >Python-vs-SQL metric and monthly revenue checks</text>
+<rect x="90.0" y="95.0" width="130.0" height="220.0" rx="4" fill="#f8fafc" stroke="#d9e2ec" />
+<rect x="110.0" y="197.4" width="90.0" height="117.6" rx="3" fill="#2f855a" stroke="none" />
+<text x="155.0" y="187.4" font-size="12" fill="#1f2933" font-weight="400" text-anchor="middle" >14 pass / 0 review</text>
+<text x="155.0" y="343.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="middle" >Python Vs Sql Metric Checks</text>
+<rect x="295.0" y="95.0" width="130.0" height="220.0" rx="4" fill="#f8fafc" stroke="#d9e2ec" />
+<rect x="315.0" y="105.0" width="90.0" height="210.0" rx="3" fill="#2f855a" stroke="none" />
+<text x="360.0" y="95.0" font-size="12" fill="#1f2933" font-weight="400" text-anchor="middle" >25 pass / 0 review</text>
+<text x="360.0" y="343.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="middle" >Monthly Revenue Checks</text>
+<rect x="590.0" y="37.0" width="16.0" height="16.0" rx="2" fill="#2f855a" stroke="none" />
+<text x="613.0" y="50.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="start" >Pass</text>
+<rect x="660.0" y="37.0" width="16.0" height="16.0" rx="2" fill="#c53030" stroke="none" />
+<text x="683.0" y="50.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="start" >Review</text>
+</svg>

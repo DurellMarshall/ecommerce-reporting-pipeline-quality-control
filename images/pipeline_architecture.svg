@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="680" viewBox="0 0 1120 680" role="img">
+
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#1f2933" />
+  </marker>
+</defs>
+<rect x="0.0" y="0.0" width="1120.0" height="680.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="70.0" y="42.0" font-size="24" fill="#1f2933" font-weight="700" text-anchor="start" >Olist Reporting Pipeline Architecture</text>
+<text x="70.0" y="66.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >One raw dataset, two transformation paths, one reconciled reporting layer</text>
+<rect x="70.0" y="130.0" width="190.0" height="70.0" rx="6" fill="#e8f1ff" stroke="#334e68" />
+<text x="165.0" y="170.0" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Raw Olist CSVs</text>
+<rect x="350.0" y="95.0" width="230.0" height="70.0" rx="6" fill="#eaf7ea" stroke="#334e68" />
+<text x="465.0" y="135.0" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Python/Pandas Pipeline</text>
+<rect x="350.0" y="200.0" width="230.0" height="70.0" rx="6" fill="#fff3dd" stroke="#334e68" />
+<text x="465.0" y="240.0" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >SQLite SQL Pipeline</text>
+<rect x="670.0" y="95.0" width="235.0" height="70.0" rx="6" fill="#eaf7ea" stroke="#334e68" />
+<text x="787.5" y="135.0" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Curated Python Outputs</text>
+<rect x="670.0" y="200.0" width="235.0" height="70.0" rx="6" fill="#fff3dd" stroke="#334e68" />
+<text x="787.5" y="240.0" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Curated SQL Outputs</text>
+<rect x="430.0" y="340.0" width="300.0" height="75.0" rx="6" fill="#f3e8ff" stroke="#334e68" />
+<text x="580.0" y="382.5" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Validation &amp; Reconciliation</text>
+<rect x="430.0" y="475.0" width="300.0" height="75.0" rx="6" fill="#eef2f3" stroke="#334e68" />
+<text x="580.0" y="517.5" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Final Reporting Tables</text>
+<rect x="430.0" y="590.0" width="300.0" height="55.0" rx="6" fill="#e6fffa" stroke="#334e68" />
+<text x="580.0" y="622.5" font-size="14" fill="#1f2933" font-weight="700" text-anchor="middle" >Tableau Dashboard</text>
+<line x1="260.0" y1="165.0" x2="350.0" y2="130.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="260.0" y1="165.0" x2="350.0" y2="235.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="580.0" y1="130.0" x2="670.0" y2="130.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="580.0" y1="235.0" x2="670.0" y2="235.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="785.0" y1="165.0" x2="650.0" y2="340.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="785.0" y1="270.0" x2="650.0" y2="340.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="580.0" y1="415.0" x2="580.0" y2="475.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="580.0" y1="550.0" x2="580.0" y2="590.0" stroke="#1f2933" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>

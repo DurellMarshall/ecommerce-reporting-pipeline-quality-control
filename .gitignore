@@ -1,0 +1,28 @@
+# Raw public dataset files are downloaded locally from Kaggle.
+data/raw/*.csv
+data/raw/*.zip
+
+# Large reproducible pipeline outputs.
+data/cleaned_python/*.csv
+data/curated_python/*.csv
+data/curated_sql/*.csv
+data/validation_outputs/*.sqlite
+
+# Keep small validation proofs for the portfolio repo.
+!data/curated_python/monthly_kpi_summary.csv
+!data/curated_python/python_reconciliation_summary.csv
+!data/curated_python/data_quality_issues.csv
+!data/curated_sql/monthly_kpi_summary.csv
+!data/curated_sql/sql_reconciliation_summary.csv
+!data/validation_outputs/raw_file_profile.csv
+!data/validation_outputs/raw_primary_key_checks.csv
+!data/validation_outputs/raw_relationship_checks.csv
+!data/validation_outputs/python_sql_comparison_summary.csv
+!data/validation_outputs/monthly_python_sql_revenue_comparison.csv
+!data/validation_outputs/reconciliation_summary.csv
+!data/validation_outputs/raw_data_profile_summary.md
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

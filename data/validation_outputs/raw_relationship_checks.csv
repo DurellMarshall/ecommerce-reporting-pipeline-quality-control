@@ -1,0 +1,8 @@
+child_table,child_key,parent_table,parent_key,child_non_null_keys,orphan_key_count,status
+orders,customer_id,customers,customer_id,99441,0,Pass
+order_items,order_id,orders,order_id,112650,0,Pass
+payments,order_id,orders,order_id,103886,0,Pass
+reviews,order_id,orders,order_id,99224,0,Pass
+order_items,product_id,products,product_id,112650,0,Pass
+order_items,seller_id,sellers,seller_id,112650,0,Pass
+products,product_category_name,category_translation,product_category_name,32341,13,Review

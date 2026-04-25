@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560" role="img">
+
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto" markerUnits="strokeWidth">
+    <path d="M0,0 L0,6 L9,3 z" fill="#1f2933" />
+  </marker>
+</defs>
+<rect x="0.0" y="0.0" width="1100.0" height="560.0" rx="0" fill="#ffffff" stroke="none" />
+<text x="90.0" y="38.0" font-size="24" fill="#1f2933" font-weight="700" text-anchor="start" >Monthly Revenue Trend</text>
+<text x="90.0" y="61.0" font-size="13" fill="#5f6c7b" font-weight="400" text-anchor="start" >Revenue generated from item price plus freight by purchase month</text>
+<line x1="90" y1="465.0" x2="1065" y2="465.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="78.0" y="469.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="end" >$0.00</text>
+<line x1="90" y1="386.0" x2="1065" y2="386.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="78.0" y="390.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="end" >$254.7K</text>
+<line x1="90" y1="307.0" x2="1065" y2="307.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="78.0" y="311.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="end" >$509.4K</text>
+<line x1="90" y1="228.0" x2="1065" y2="228.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="78.0" y="232.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="end" >$764.1K</text>
+<line x1="90" y1="149.0" x2="1065" y2="149.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="78.0" y="153.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="end" >$1.02M</text>
+<line x1="90" y1="70.0" x2="1065" y2="70.0" stroke="#d9e2ec" stroke-width="1"/>
+<text x="78.0" y="74.0" font-size="12" fill="#5f6c7b" font-weight="400" text-anchor="end" >$1.27M</text>
+<polyline points="90.0,464.9 130.6,447.4 171.2,465.0 211.9,422.4 252.5,376.2 293.1,331.0 333.8,337.1 374.4,283.2 415.0,309.0 455.6,283.6 496.2,257.7 536.9,241.6 577.5,226.4 618.1,99.3 658.8,197.1 699.4,121.5 740.0,158.9 780.6,106.7 821.2,105.3 861.9,108.4 902.5,147.8 943.1,136.6 983.8,153.8 1024.4,464.9 1065.0,465.0" fill="none" stroke="#246b9f" stroke-width="4" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="90.0" cy="464.9" r="4" fill="#246b9f"/>
+<circle cx="130.6" cy="447.4" r="4" fill="#246b9f"/>
+<circle cx="171.2" cy="465.0" r="4" fill="#246b9f"/>
+<circle cx="211.9" cy="422.4" r="4" fill="#246b9f"/>
+<circle cx="252.5" cy="376.2" r="4" fill="#246b9f"/>
+<circle cx="293.1" cy="331.0" r="4" fill="#246b9f"/>
+<circle cx="333.8" cy="337.1" r="4" fill="#246b9f"/>
+<circle cx="374.4" cy="283.2" r="4" fill="#246b9f"/>
+<circle cx="415.0" cy="309.0" r="4" fill="#246b9f"/>
+<circle cx="455.6" cy="283.6" r="4" fill="#246b9f"/>
+<circle cx="496.2" cy="257.7" r="4" fill="#246b9f"/>
+<circle cx="536.9" cy="241.6" r="4" fill="#246b9f"/>
+<circle cx="577.5" cy="226.4" r="4" fill="#246b9f"/>
+<circle cx="618.1" cy="99.3" r="4" fill="#246b9f"/>
+<circle cx="658.8" cy="197.1" r="4" fill="#246b9f"/>
+<circle cx="699.4" cy="121.5" r="4" fill="#246b9f"/>
+<circle cx="740.0" cy="158.9" r="4" fill="#246b9f"/>
+<circle cx="780.6" cy="106.7" r="4" fill="#246b9f"/>
+<circle cx="821.2" cy="105.3" r="4" fill="#246b9f"/>
+<circle cx="861.9" cy="108.4" r="4" fill="#246b9f"/>
+<circle cx="902.5" cy="147.8" r="4" fill="#246b9f"/>
+<circle cx="943.1" cy="136.6" r="4" fill="#246b9f"/>
+<circle cx="983.8" cy="153.8" r="4" fill="#246b9f"/>
+<circle cx="1024.4" cy="464.9" r="4" fill="#246b9f"/>
+<circle cx="1065.0" cy="465.0" r="4" fill="#246b9f"/>
+<text x="90.0" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 90.0 505)">2016-09</text>
+<text x="171.2" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 171.2 505)">2016-12</text>
+<text x="252.5" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 252.5 505)">2017-02</text>
+<text x="333.8" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 333.8 505)">2017-04</text>
+<text x="415.0" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 415.0 505)">2017-06</text>
+<text x="496.2" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 496.2 505)">2017-08</text>
+<text x="577.5" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 577.5 505)">2017-10</text>
+<text x="658.8" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 658.8 505)">2017-12</text>
+<text x="740.0" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 740.0 505)">2018-02</text>
+<text x="821.2" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 821.2 505)">2018-04</text>
+<text x="902.5" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 902.5 505)">2018-06</text>
+<text x="983.8" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 983.8 505)">2018-08</text>
+<text x="1065.0" y="505.0" font-size="11" fill="#5f6c7b" font-weight="400" text-anchor="end" transform="rotate(-45 1065.0 505)">2018-10</text>
+</svg>
