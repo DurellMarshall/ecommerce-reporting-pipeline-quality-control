@@ -49,17 +49,17 @@ Raw CSV files are expected in `data/raw`.
 
 ## Visual Outputs
 
-![Pipeline architecture](images/pipeline_architecture.svg)
+![Pipeline architecture](images/pipeline_architecture.png)
 
-![Data model](images/data_model.svg)
+![Data model](images/data_model.png)
 
-![Monthly revenue trend](images/monthly_revenue_trend.svg)
+![Monthly revenue trend](images/monthly_revenue_trend.png)
 
-![Top categories by revenue](images/top_categories_by_revenue.svg)
+![Top categories by revenue](images/top_categories_by_revenue.png)
 
-![Validation summary](images/validation_summary.svg)
+![Validation summary](images/validation_summary.png)
 
-![Revenue validation checks](images/revenue_validation_checks.svg)
+![Revenue validation checks](images/revenue_validation_checks.png)
 
 ## Repository Structure
 
